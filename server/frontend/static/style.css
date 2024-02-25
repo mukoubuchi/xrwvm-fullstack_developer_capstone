@@ -1,3 +1,10 @@
+.box {
+    border: 2px solid #aaa;
+  
+    padding: 2em;
+    border-radius: 15px;
+  }
+
 img{
   width: 60%;
   align-self: center;
