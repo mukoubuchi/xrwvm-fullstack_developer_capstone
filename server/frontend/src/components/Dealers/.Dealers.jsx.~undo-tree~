@@ -1,0 +1,7 @@
+(undo-tree-save-format-version . 1)
+"e7407134f72545881b66953875403a72a725ad83"
+[nil nil nil nil (26076 65141 254508 0) 0 nil]
+([nil nil ((#(";" 0 1 (fontified t)) . -2537) (undo-tree-id1 . -1) 2538 (t 26076 64989 558581 215000)) nil (26076 65163 518693 0) 0 nil] [nil nil ((1884 . 1885) (t 26076 64989 558581 215000)) ((#("a" 0 1 (fontified t)) . 1884) (undo-tree-id0 . -1)) (26076 65141 254279 0) 0 nil])
+([nil current ((#("        " 0 8 (fontified t face whitespace-trailing)) . -1885) (#("  " 0 2 (fontified t face whitespace-trailing)) . -1314) (#(" " 0 1 (fontified t face whitespace-trailing)) . -503) (#("  " 0 2 (fontified t face whitespace-trailing)) . -447) 1) nil (26076 65163 518674 0) 0 nil])
+nil
+nil
